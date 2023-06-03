@@ -1,3 +1,3 @@
-# References
+#referencia
+Mensaje de conflicto
 
-* octocat 1 😈
